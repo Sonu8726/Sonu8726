@@ -24,7 +24,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/sonu8726" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sonu8726" height="30" width="40" /></a>
 <a href="https://instagram.com/ig_sfg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig_sfg" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sonuk_videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sonuk_videos" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@SonuK_Videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Sonu K Videos" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sonu8726" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sonu8726" height="30" width="40" /></a>
 </p>
 
